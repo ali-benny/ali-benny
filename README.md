@@ -3,13 +3,13 @@ I'm a curious soul from Bologna, Italy 🇮🇹, passionate about **software eng
 Currently navigating my journey through the world of coding, with a focus on **cybersecurity** and **full-stack development**. 🚀
 
 <p align="center">
-  <a><img height="200" src="https://github-readme-stats.vercel.app/api?username=ali-benny&show_icons=true&theme=nightowl&hide_border=true"/></a>
-  <a><img height="200" src='https://github-readme-streak-stats.herokuapp.com/?user=ali-benny&theme=nightowl&hide_border=true'/></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=ali-benny&show_icons=true&theme=nightowl&hide_border=true" width="49%" /></a>
+  <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-benny&theme=nightowl&hide_border=true" width="49%" /></a>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-benny&theme=nightowl"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-benny&theme=nightowl&exclude=markdown,mathematica,jsonl,lean"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-benny&theme=nightowl" width="67%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-benny&theme=nightowl&exclude=markdown,mathematica,jsonl,lean" width="30%" />
 </p>
 
 <!--<img height=20% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-benny&theme=nightowl&hide_border=true&layout=compact"/>-->
