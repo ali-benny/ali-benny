@@ -8,7 +8,7 @@ Currently navigating my journey through the world of coding, with a focus on **c
 </p>
 
 <p align="center">
-  <a><img src="https://nirzak-streak-stats.vercel.app?user=ali-benny&theme=nightowl&hide_border=true" width="50%" /></a>
+  <img src="https://streak-stats.demolab.com?user=ali-benny&theme=nightowl&hide_border=true" width="50%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ali-benny&theme=nightowl&exclude=markdown,mathematica,jsonl,lean" width="33%" />
 </p>
 
